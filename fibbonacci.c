@@ -3,37 +3,6 @@
 
 
 
-
-/*
-unsigned int fibo(){
-    
-    unsigned int base, max;
-
-    printf("what will the base number be ? ");
-    scanf("%u \n", &base);
-
-    printf("what will the max number be ? ");
-    scanf("%u \n", &max);
-
-
-    unsigned int fiboN = base;
-    unsigned int tmp1, tmp2 = base;
-    
-
-
-    while (fiboN < max)
-    {
-        tmp1 = fiboN;
-
-        fiboN = tmp1 + tmp2;
-
-        tmp2 = fiboN;
-
-        printf("%u, ", fiboN);
-    }
-    
-}*/
-
 void main(){
 
 
